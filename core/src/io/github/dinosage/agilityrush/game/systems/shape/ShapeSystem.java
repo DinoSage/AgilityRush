@@ -75,5 +75,4 @@ public class ShapeSystem extends EntitySystem {
             }
         }
     }
-
 }
