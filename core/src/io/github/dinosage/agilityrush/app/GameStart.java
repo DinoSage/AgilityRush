@@ -3,7 +3,7 @@ package io.github.dinosage.agilityrush.app;
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.GL20;
-import io.github.dinosage.agilityrush.GameScreen;
+import io.github.dinosage.agilityrush.game.GameScreen;
 import io.github.dinosage.agilityrush.screens.*;
 
 public class GameStart extends Game {
